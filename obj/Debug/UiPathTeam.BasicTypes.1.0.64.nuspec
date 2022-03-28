@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>UiPathTeam.BasicTypes</id>
+    <version>1.0.64</version>
+    <authors>io</authors>
+    <description>Package Description</description>
+    <copyright>© UiPath</copyright>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Microsoft.JSInterop.WebAssembly" version="5.0.11" exclude="Build,Analyzers" />
+        <dependency id="UiPath.Platform" version="21.12.0-alpha.2278644" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\bogdan.ripa\git\StudioWeb-develop\src\UiPathTeam.BasicType.Activities\bin\Debug\net5.0\UiPathTeam.BasicTypes.dll" target="lib\net5.0\UiPathTeam.BasicTypes.dll" />
+  </files>
+</package>

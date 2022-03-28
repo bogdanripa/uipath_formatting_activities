@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bogdan.ripa\\git\\StudioWeb-develop\\src\\UiPathTeam.BasicType.Activities\\UiPathTeam.BasicTypes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bogdan.ripa\\git\\StudioWeb-develop\\src\\UiPathTeam.BasicType.Activities\\UiPathTeam.BasicTypes.csproj": {
+      "version": "1.0.96",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bogdan.ripa\\git\\StudioWeb-develop\\src\\UiPathTeam.BasicType.Activities\\UiPathTeam.BasicTypes.csproj",
+        "projectName": "UiPathTeam.BasicTypes",
+        "projectPath": "C:\\Users\\bogdan.ripa\\git\\StudioWeb-develop\\src\\UiPathTeam.BasicType.Activities\\UiPathTeam.BasicTypes.csproj",
+        "packagesPath": "C:\\Users\\bogdan.ripa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bogdan.ripa\\git\\StudioWeb-develop\\src\\UiPathTeam.BasicType.Activities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bogdan.ripa\\git\\StudioWeb-develop\\NuGet.Config",
+          "C:\\Users\\bogdan.ripa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\bogdan.ripa\\Documents\\UiPath\\Packages": {},
+          "C:\\Users\\bogdan.ripa\\git\\StudioWeb-develop\\src\\UiPathTeam.BasicType.Activities\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gallery.uipath.com/api/v2": {},
+          "https://uipath.pkgs.visualstudio.com/Public.Feeds/_packaging/UiPath-Internal/nuget/v3/index.json": {},
+          "https://uipath.pkgs.visualstudio.com/Public.Feeds/_packaging/UiPath-Internal/nuget/v3/index.json": {},
+          "https://uipath.pkgs.visualstudio.com/StudioWeb/_packaging/StudioWebDevFeed/nuget/v3/index.json": {},
+          "https://uipath.pkgs.visualstudio.com/_packaging/nuget-packages/nuget/v3/index.json": {},
+          "https://uipath.pkgs.visualstudio.com/_packaging/nuget-packages/nuget/v3/index.json": {},
+          "https://www.myget.org/F/automapperdev/api/v3/index.json": {},
+          "https://www.myget.org/F/automapperdev/api/v3/index.json": {},
+          "https://www.myget.org/F/uipath-dev/api/v3/index.json": {},
+          "https://www.myget.org/F/uipath-dev/api/v3/index.json": {},
+          "https://www.myget.org/F/workflow/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\bogdan.ripa\\git\\StudioWeb-develop\\src\\ViewModels\\System.Activities.ViewModels\\System.Activities.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\bogdan.ripa\\git\\StudioWeb-develop\\src\\ViewModels\\System.Activities.ViewModels\\System.Activities.ViewModels.csproj",
+                "privateAssets": "all"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreLockProperties": {
+          "restorePackagesWithLockFile": "false"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.JSInterop.WebAssembly": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "System.Activities": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0-20210930-02, )"
+            },
+            "System.Activities.Metadata": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0-20210916.1, )"
+            },
+            "UiPath.Platform": {
+              "target": "Package",
+              "version": "[21.12.0-alpha.2278644, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bogdan.ripa\\git\\StudioWeb-develop\\src\\ViewModels\\System.Activities.ViewModels\\System.Activities.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bogdan.ripa\\git\\StudioWeb-develop\\src\\ViewModels\\System.Activities.ViewModels\\System.Activities.ViewModels.csproj",
+        "projectName": "System.Activities.ViewModels",
+        "projectPath": "C:\\Users\\bogdan.ripa\\git\\StudioWeb-develop\\src\\ViewModels\\System.Activities.ViewModels\\System.Activities.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\bogdan.ripa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bogdan.ripa\\git\\StudioWeb-develop\\src\\ViewModels\\System.Activities.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bogdan.ripa\\git\\StudioWeb-develop\\NuGet.Config",
+          "C:\\Users\\bogdan.ripa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0",
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\bogdan.ripa\\Documents\\UiPath\\Packages": {},
+          "C:\\Users\\bogdan.ripa\\git\\StudioWeb-develop\\src\\UiPathTeam.BasicType.Activities\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gallery.uipath.com/api/v2": {},
+          "https://uipath.pkgs.visualstudio.com/Public.Feeds/_packaging/UiPath-Internal/nuget/v3/index.json": {},
+          "https://uipath.pkgs.visualstudio.com/Public.Feeds/_packaging/UiPath-Internal/nuget/v3/index.json": {},
+          "https://uipath.pkgs.visualstudio.com/StudioWeb/_packaging/StudioWebDevFeed/nuget/v3/index.json": {},
+          "https://uipath.pkgs.visualstudio.com/_packaging/nuget-packages/nuget/v3/index.json": {},
+          "https://uipath.pkgs.visualstudio.com/_packaging/nuget-packages/nuget/v3/index.json": {},
+          "https://www.myget.org/F/automapperdev/api/v3/index.json": {},
+          "https://www.myget.org/F/automapperdev/api/v3/index.json": {},
+          "https://www.myget.org/F/uipath-dev/api/v3/index.json": {},
+          "https://www.myget.org/F/uipath-dev/api/v3/index.json": {},
+          "https://www.myget.org/F/workflow/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          },
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreLockProperties": {
+          "restorePackagesWithLockFile": "false"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Activities.Metadata": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0-20210916.1, )"
+            },
+            "UiPath.Platform": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[21.12.0-alpha.2278644, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        },
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "System.Activities.Core.Presentation": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0-20210707.2, )"
+            },
+            "UiPath.Platform": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[21.12.0-alpha.2278644, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

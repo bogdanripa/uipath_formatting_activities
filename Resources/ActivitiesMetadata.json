@@ -1,0 +1,129 @@
+﻿{
+  "activities": [
+    {
+      "fullName": "UiPathTeam.BasicTypes.Activities.AdjustDateActivity",
+      "displayNameKey": "AdjustDateActivity_DisplayName",
+      "descriptionKey": "AdjustDateActivity_Description",
+      "iconKey": "demoactivitywithautocomplete.svg",
+      "viewModelType": "UiPathTeam.BasicTypes.ViewModel.AdjustDateActivityViewModel",
+      "properties": []
+    },
+    {
+      "fullName": "UiPathTeam.BasicTypes.Activities.GetDateFromTextActivity",
+      "displayNameKey": "GetDateFromTextActivity_DisplayName",
+      "descriptionKey": "GetDateFromTextActivity_Description",
+      "iconKey": "demoactivitywithautocomplete.svg",
+      "viewModelType": "UiPathTeam.BasicTypes.ViewModel.GetDateFromTextActivityViewModel",
+      "properties": []
+    },
+    {
+      "fullName": "UiPathTeam.BasicTypes.Activities.GetTimeBetweenDatesActivity",
+      "displayNameKey": "GetTimeBetweenDatesActivity_DisplayName",
+      "descriptionKey": "GetTimeBetweenDatesActivity_Description",
+      "iconKey": "demoactivitywithautocomplete.svg",
+      "viewModelType": "UiPathTeam.BasicTypes.ViewModel.GetTimeBetweenDatesActivityViewModel",
+      "properties": []
+    },
+    {
+      "fullName": "UiPathTeam.BasicTypes.Activities.FormatDateActivity",
+      "displayNameKey": "FormatDateActivity_DisplayName",
+      "descriptionKey": "FormatDateActivity_Description",
+      "iconKey": "demoactivitywithautocomplete.svg",
+      "viewModelType": "UiPathTeam.BasicTypes.ViewModel.FormatDateActivityViewModel",
+      "properties": []
+    },
+    {
+      "fullName": "UiPathTeam.BasicTypes.Activities.TrimTextActivity",
+      "displayNameKey": "TrimTextActivity_DisplayName",
+      "descriptionKey": "TrimTextActivity_Description",
+      "iconKey": "demoactivitywithautocomplete.svg",
+      "viewModelType": "UiPathTeam.BasicTypes.ViewModel.TrimTextActivityViewModel",
+      "properties": []
+    },
+    {
+      "fullName": "UiPathTeam.BasicTypes.Activities.TextToLowercaseActivity",
+      "displayNameKey": "TextToLowercaseActivity_DisplayName",
+      "descriptionKey": "TextToLowercaseActivity_Description",
+      "iconKey": "demoactivitywithautocomplete.svg",
+      "viewModelType": "UiPathTeam.BasicTypes.ViewModel.TextToLowercaseActivityViewModel",
+      "properties": []
+    },
+    {
+      "fullName": "UiPathTeam.BasicTypes.Activities.TextToUppercaseActivity",
+      "displayNameKey": "TextToUppercaseActivity_DisplayName",
+      "descriptionKey": "TextToUppercaseActivity_Description",
+      "iconKey": "demoactivitywithautocomplete.svg",
+      "viewModelType": "UiPathTeam.BasicTypes.ViewModel.TextToUppercaseActivityViewModel",
+      "properties": []
+    },
+    {
+      "fullName": "UiPathTeam.BasicTypes.Activities.TextLengthActivity",
+      "displayNameKey": "TextLengthActivity_DisplayName",
+      "descriptionKey": "TextLengthActivity_Description",
+      "iconKey": "demoactivitywithautocomplete.svg",
+      "viewModelType": "UiPathTeam.BasicTypes.ViewModel.TextLengthActivityViewModel",
+      "properties": []
+    },
+    {
+      "fullName": "UiPathTeam.BasicTypes.Activities.SearchAndReplaceInTextActivity",
+      "displayNameKey": "SearchAndReplaceInTextActivity_DisplayName",
+      "descriptionKey": "SearchAndReplaceInTextActivity_Description",
+      "iconKey": "demoactivitywithautocomplete.svg",
+      "viewModelType": "UiPathTeam.BasicTypes.ViewModel.SearchAndReplaceInTextActivityViewModel",
+      "properties": []
+    },
+    {
+      "fullName": "UiPathTeam.BasicTypes.Activities.ExtractTextActivity",
+      "displayNameKey": "ExtractTextActivity_DisplayName",
+      "descriptionKey": "ExtractTextActivity_Description",
+      "iconKey": "demoactivitywithautocomplete.svg",
+      "viewModelType": "UiPathTeam.BasicTypes.ViewModel.ExtractTextActivityViewModel",
+      "properties": []
+    },
+    {
+      "fullName": "UiPathTeam.BasicTypes.Activities.GetNumberFromTextActivity",
+      "displayNameKey": "GetNumberFromTextActivity_DisplayName",
+      "descriptionKey": "GetNumberFromTextActivity_Description",
+      "iconKey": "demoactivitywithautocomplete.svg",
+      "viewModelType": "UiPathTeam.BasicTypes.ViewModel.GetNumberFromTextActivityViewModel",
+      "properties": []
+    },
+    {
+      "fullName": "UiPathTeam.BasicTypes.Activities.RoundNumberActivity",
+      "displayNameKey": "RoundNumberActivity_DisplayName",
+      "descriptionKey": "RoundNumberActivity_Description",
+      "iconKey": "demoactivitywithautocomplete.svg",
+      "viewModelType": "UiPathTeam.BasicTypes.ViewModel.RoundNumberActivityViewModel",
+      "properties": []
+    },
+    {
+      "fullName": "UiPathTeam.BasicTypes.Activities.GenerateRandomNumberActivity",
+      "displayNameKey": "GenerateRandomNumber_DisplayName",
+      "descriptionKey": "GenerateRandomNumber_Description",
+      "iconKey": "demoactivitywithautocomplete.svg",
+      "viewModelType": "UiPathTeam.BasicTypes.ViewModel.GenerateRandomNumberActivityViewModel",
+      "properties": []
+    },
+    {
+      "fullName": "UiPathTeam.BasicTypes.Activities.FormatNumberActivity",
+      "displayNameKey": "FormatNumber_DisplayName",
+      "descriptionKey": "FormatNumber_Description",
+      "iconKey": "demoactivitywithautocomplete.svg",
+      "viewModelType": "UiPathTeam.BasicTypes.ViewModel.FormatNumberActivityViewModel",
+      "properties": []
+    },
+    {
+      "fullName": "UiPathTeam.BasicTypes.Activities.AddListItemActivity",
+      "displayNameKey": "AddListItem_DisplayName",
+      "descriptionKey": "AddListItem_Description",
+      "iconKey": "demoactivitywithautocomplete.svg",
+      "viewModelType": "UiPathTeam.BasicTypes.ViewModel.AddListItemActivityViewModel",
+      "properties": []
+    }
+  ],
+  "defaultActivityColor": "#FFE4E1",
+  "defaultActivityNameBackgroundColor": "#FFFFFF",
+  "defaultActivityIconKey": "package.svg",
+  "assemblyIconKey": "package.svg",
+  "resourceManagerName": "UiPathTeam.BasicTypes.Resources.Resource1"
+}
